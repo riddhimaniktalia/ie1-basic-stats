@@ -43,3 +43,7 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
+
+
+#5 adding new line to just checkout revert and reset
+#5 change number 2: to add further changes to the file 
